@@ -1,0 +1,22 @@
+.match-height{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+#ngancach{
+    height: 20px;
+    width: 100%;
+}
+#allwatchesgt p{
+    padding-top: 110px; 
+    text-align: center;
+    margin-left: 19%;
+    margin-right: 19%;
+    color: black;
+    font-size: 15px;
+}
+#allwatchesgt{
+    height: 350px;
+    background: gainsboro;
+    margin-bottom: 50px;
+}
